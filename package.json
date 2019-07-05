@@ -1,0 +1,27 @@
+{
+  "name": "brokers-node-sdk",
+  "version": "0.1.0",
+  "description": "Brokers Node SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntrecht/brokers-node-sdk.git"
+  },
+  "keywords": [
+    "Likid",
+    "Node",
+    "SDK"
+  ],
+  "author": "charyorde <dreyemi@gmail.com> (https://github.com/charyorde)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huntrecht/brokers-node-sdk/issues"
+  },
+  "homepage": "https://github.com/huntrecht/brokers-node-sdk#readme",
+  "dependencies": {
+    "grpc": "^1.21.1"
+  }
+}
